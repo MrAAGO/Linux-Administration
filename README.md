@@ -9,7 +9,7 @@
     <nav>
       <ul>
         <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#milestones">Milestones</a></li>
+        <li><a href="#milestones">Running Containerized Application with Docker</a></li>
         <li><a href="#conclusion">Conclusion</a></li>
       </ul>
     </nav>
@@ -40,7 +40,7 @@ In summary, Linux is a versatile and powerful operating system that is widely us
     <section id="milestones">
       <h2>Milestones</h2>
       <h3>Milestone 1</h3>
-      <p>Provide a brief description of the first milestone and its progress.</p>
+      <p>Docker is a popular platform that enables the creation and management of containerized applications. Containers are lightweight, portable, and self-sufficient units that package an application and its dependencies together, making it easy to deploy and run the application on different environments.</p>
       <h3>Milestone 2</h3>
       <p>Provide a brief description of the second milestone and its progress.</p>
     </section>
