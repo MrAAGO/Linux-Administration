@@ -17,9 +17,9 @@
     </nav>
     <section id="introduction">
       <h2>Introduction</h2>
-      ![screenshot-www geeksforgeeks org-2023 01 11-22_58_53](https://user-images.githubusercontent.com/86381942/211999301-e7d5828a-a112-4017-aad2-cb7f4e542470.png)
+      
 
-      <p>Linux is an open-source operating system based on the Unix operating system. It was first released in 1991 by Linus Torvalds, and has since become one of the most widely-used operating systems in the world. Linux is built on a monolithic kernel and is available in a wide variety of distributions (such as Ubuntu, Red Hat, Debian, etc.)
+  <p>Linux is an open-source operating system based on the Unix operating system. It was first released in 1991 by Linus Torvalds, and has since become one of the most widely-used operating systems in the world. Linux is built on a monolithic kernel and is available in a wide variety of distributions (such as Ubuntu, Red Hat, Debian, etc.)
 
 The purpose of Linux is to provide a stable, efficient, and secure operating system that can be used for a wide range of tasks, from personal use to enterprise-level server and system administration. Linux is particularly popular in the server and enterprise space due to its stability, scalability, and security features.
 
