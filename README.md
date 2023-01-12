@@ -3,9 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Project Journey</title>
- 
-  </head>
+</head>
   <body>
     <h1>Project Journey</h1>
     <nav>
